@@ -1,0 +1,7 @@
+{
+  "url": "http://localhost/directorioPersonas/",
+  "host": "localhost",
+  "database": "myInfo",
+  "user": "root",
+  "password": "mariaPass"
+}
